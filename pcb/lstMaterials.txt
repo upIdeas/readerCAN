@@ -1,0 +1,2 @@
+1 x Arduino PRO MINI 5V 16MHZ
+1 x MCP2515
